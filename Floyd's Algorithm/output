@@ -1,0 +1,20 @@
+Output:
+
+
+enter the no of vertices
+
+4
+enter the cost matrix(999 for infinity)
+
+0 999 3 999
+2 0 999 999
+999 7 0 1
+6 999 999 0
+the all pair shortest path matrix is:
+
+from node1to other node
+10	3	4	
+
+from node2 to other node
+2	5	6	
+
