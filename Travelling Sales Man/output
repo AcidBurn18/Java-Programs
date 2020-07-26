@@ -1,0 +1,16 @@
+Output:
+
+travelling salesman problem using dynamic programming 
+
+enter no of cities
+4
+enter cost matrix
+0 4 1 2
+4 0 1 2
+1 1 0 3
+2 2 3 0
+minimum tour cost:6
+
+tour
+0->2->1->3->0
+
